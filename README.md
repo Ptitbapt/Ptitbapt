@@ -6,6 +6,4 @@
 
 Add me on Discord :
 
-```md
 [![Discord Presence](https://lanyard.cnrad.dev/api/223051875354804224)](https://discord.com/users/223051875354804224)
-```
