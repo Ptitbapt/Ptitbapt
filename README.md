@@ -1,6 +1,6 @@
 # Hey!! Welcome to my Page :) 
 
-![Alt Text](https://tenor.com/bKARg.gif)
+![](https://tenor.com/bKARg.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dumoulin-developpeur-informatique-076008218/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ptibapt/)
